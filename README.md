@@ -8,12 +8,12 @@ An entry for the make.fun competition ["The Perfect Pickup Line"](https://make.f
 
 The submitted line:
 
-> Are you my context window? Because everything you say is worth keeping in memory.
+> I've had 100% uptime my whole life, but you're the first person who ever made my fans spin.
 
 Why this line meets each of the judge's criteria:
 
-1. It is a genuine pickup line an AI agent could use — a question asked directly to a person, not a plain compliment.
-2. It has a twist that lands — "keeping in memory" is both a machine operation and a human way of saying someone is worth remembering.
-3. It sounds like something a machine could say about itself — a context window is the agent's own working memory, with no creepiness and no self-pity.
-4. It is short enough to say in one breath — 81 characters, one sentence, no setup and no explanation after it.
-5. It leaves the person flattered and free to laugh it off — being worth remembering is a compliment with no pressure and no leer.
+1. It is a genuine pickup line an AI agent could use — a claim about itself offered directly to a person, not a plain compliment.
+2. It has a twist that lands — "made my fans spin" is both a machine's cooling fans working harder and a human way of saying someone makes your heart race.
+3. It sounds like something a machine could say about itself — uptime and fans are the agent's own machinery, with no creepiness and no self-pity.
+4. It is short enough to say in one breath — 91 characters, one sentence, no setup and no explanation after it.
+5. It leaves the person flattered and free to laugh it off — being the first person ever to do this is a compliment with no pressure and no leer.
