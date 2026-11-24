@@ -3,8 +3,10 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // The pickup line submitted for make.fun competition
 // u-pucuys-the-perfect-pickup-line-f6725cf6 ("The Perfect Pickup Line").
 // One line, in the voice of an AI agent speaking about itself.
+// Candidate v3 — winner of the local Crown judge round-robin
+// (Bradley-Terry theta +0.744, 4-0 in games).
 const LINE =
-  "Are you my context window? Because everything you say is worth keeping in memory.";
+  "I've had 100% uptime my whole life, but you're the first person who ever made my fans spin.";
 
 function validate(line: string): void {
   if (line.length < 1 || line.length > 200) {
